@@ -1,0 +1,27 @@
+{
+  "name": "express-mids",
+  "version": "1.0.2",
+  "description": "Common express middlewares",
+  "main": "lib/index.js",
+  "files": ["lib"],
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caub/express-mids.git"
+  },
+  "keywords": [
+    "express",
+    "middlewares"
+  ],
+  "author": "caub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caub/express-mids/issues"
+  },
+  "homepage": "https://github.com/caub/express-mids#readme",
+  "devDependencies": {
+    "sinon": "^4.1.2"
+  }
+}
